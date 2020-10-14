@@ -1,0 +1,18 @@
+
+body{
+    
+    font-family: 'Work Sans', sans-serif;
+    background-color: black;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+.fab fa-spotify {
+    color: white;
+  }
